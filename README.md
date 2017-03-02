@@ -33,5 +33,5 @@ Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe
 Se quiser saber mais sobre o desenvolvimento do projeto, recomendo a leitura do [Game Document Design][1].
 
 
-[1]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/docs/GDD_artemis_inferno
-[2]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/boardgame/ArtemisInferno_Boardgame_v.1.0.pdf
+[1]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/docs/GDD_artemis_inferno.md
+[2]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/ArtemisInferno_Boardgame_v.1.0.pdf
