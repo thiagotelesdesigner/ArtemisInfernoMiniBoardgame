@@ -20,7 +20,7 @@ Artemis Inferno foi projetado seguindo os seguintes requisitos:
 - Um objetivo claro, de fácil percepção;
 - Um grau de dificuldade aumentado pela sorte e/ou habilidades.
 
-Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe dentro dos limites de uma folha de papel e que possua sentindo no contexto do seu jogo. Os espaços do seu tabuleiro poderá conter informações, desde que estas não exedam o espaço. Um espaço pode mudar o objetivo do seu personagem, a quantidade de dados a rolar, desbloquear uma nova parte do tabuleiro, retroceder o personagem, dentre várias outras ações que seu jogo necessite.
+Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe dentro dos limites de uma folha de papel e que possua sentindo no contexto do seu jogo. Os espaços do seu tabuleiro poderão conter informações, desde que estas não exedam o espaço. Um espaço pode mudar o objetivo do seu personagem, a quantidade de dados a rolar, desbloquear uma nova parte do tabuleiro, retroceder o personagem, dentre várias outras ações que seu jogo necessite.
 
 ## Download
 
