@@ -12,7 +12,7 @@ Artemis Inferno foi projetado seguindo os seguintes requisitos:
 
 - O jogo deverá caber em um pedaço de papel, de preferência A4.
 - O jogo deverá ser para um jogador apenas.
-- Uma curta descrição e instruções para o seu jogo deverá estar no topo da página.
+- Uma curta descrição e instruções para o seu jogo deverão estar no topo da página.
 - A única coisa extra que alguém deverá precisar para jogar, são dois dados D6 (estes são elementos opcionais).
 
 É igualmente importante que seu jogo contenha:
