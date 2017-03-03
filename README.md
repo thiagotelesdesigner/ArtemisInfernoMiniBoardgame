@@ -30,7 +30,7 @@ Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe
 
 > **Importante**
 >
-> Imprima o jogo numa folha A4 com as opções default da sua impressora.
+> Imprima o jogo numa folha A4, colorido e com as opções default da sua impressora.
 >
 > Caso você não possua os dois dados, você poderá fazer o download deste template: [Dado D6 - 2cm - Template A4][3]. É só imprimir, recortar e colar :smile:.
 
