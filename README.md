@@ -7,6 +7,8 @@ Artemis Inferno é um mini boardgame de trilha, projetado para single player, ut
 
 Este é um projeto de estudo sobre game design, com foco em desenvolver um jogo em um ambiente extremamente limitante. O jogo foi totalmente desenvolvido em 4 dias.
 
+Se quiser saber mais sobre o desenvolvimento do projeto, recomendo a leitura do [Game Document Design][1].
+
 ## Requisitos do projeto
 Artemis Inferno foi projetado seguindo os seguintes requisitos:
 
@@ -29,9 +31,10 @@ Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe
 > **Importante**
 >
 > Imprima o jogo numa folha A4 com as opções default da sua impressora.
-
-Se quiser saber mais sobre o desenvolvimento do projeto, recomendo a leitura do [Game Document Design][1].
+>
+> Caso você não possua os dois dados, você poderá fazer o download deste template: [Dado D6 - 2cm - Template A4][3]. É só imprimir, recortar e colar :smile:.
 
 
 [1]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/docs/GDD_artemis_inferno.md
 [2]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/ArtemisInferno_Boardgame_v.1.0.pdf
+[3]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/Printable-6-Sided-Paper-Dice-Tabs_2cm.pdf
