@@ -5,7 +5,7 @@ O ano é 2069, e você é o comandante a bordo da nave Artemis 11 indo para a co
 
 Artemis Inferno é um mini boardgame de trilha, projetado para single player, utilizando uma folha de papel A4 como plataforma e dois dados D6 como game tokens.
 
-Este é um projeto de estudo sobre game design, com foco em desenvolver um jogo em um ambiente extremamente limitante.
+Este é um projeto de estudo sobre game design, com foco em desenvolver um jogo em um ambiente extremamente limitante. O jogo foi totalmente desenvolvido em 4 dias.
 
 ## Requisitos do projeto
 Artemis Inferno foi projetado seguindo os seguintes requisitos:
