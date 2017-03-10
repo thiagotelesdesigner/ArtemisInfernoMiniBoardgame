@@ -1,5 +1,9 @@
 # Artemis Inferno
-[![versão](https://img.shields.io/badge/versão-1.0.0%20RC-blue.svg)]
+![versão 1.0.0 RC](https://img.shields.io/badge/versão-1.0.0%20RC-blue.svg)
+![licença GPL 3.0](https://img.shields.io/badge/licença-GPL%203.0-blue.svg)
+![gênero: ação e aventura](https://img.shields.io/badge/gênero-ação/aventura-blue.svg)
+![estilo: boardgame trilha](https://img.shields.io/badge/estilo-boardgame trilha-blue.svg)
+![plataforma: papel A4](https://img.shields.io/badge/plataforma-papel A4-blue.svg)
 
 O ano é 2069, e você é o comandante a bordo da nave Artemis 11 indo para a colônia lunar Gaia II. Seu objetivo é entregar os suprimentos vitais à sobrevivência desta colônia. Sua missão é extremamente importante, pois a espaçonave Artemis 10 não conseguiu chegar ao destino e a colônia agora sofre com racionamento dos suprimentos. Você é a última esperança de Gaia II. Vá até a Estação de Lançamento e boa sorte comandante!
 
@@ -28,7 +32,7 @@ Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe
 
 ## Download
 
-[Download | Artemis Inferno v.1.0][2]
+[Download | Artemis Inferno v.1.0.0 RC][2]
 
 > **Importante**
 >
