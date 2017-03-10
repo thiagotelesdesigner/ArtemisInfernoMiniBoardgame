@@ -32,7 +32,7 @@ Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe
 
 ## Download
 
-![Download Artemis Inferno versão 1.0.0 RC](https://img.shields.io/badge/Download-Artemis%20Inferno%20v.1.0.0%20RC-red.svg?link=https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/ArtemisInferno_Boardgame_v.1.0.pdf)
+[![Download Artemis Inferno versão 1.0.0 RC](https://img.shields.io/badge/Download-Artemis%20Inferno%20v.1.0.0%20RC-red.svg)](https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/ArtemisInferno_Boardgame_v.1.0.pdf)
 
 > **Importante**
 >
