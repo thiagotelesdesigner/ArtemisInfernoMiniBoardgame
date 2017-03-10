@@ -38,9 +38,7 @@ Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe
 >
 > Imprima o jogo numa folha A4, colorido e com as opções default da sua impressora.
 >
-> Caso você não possua os dois dados, você poderá fazer o download deste template: [Dado D6 - 2cm - Template A4][3]. É só imprimir, recortar e colar :smile:.
+> Caso você não possua os dois dados, você poderá fazer o download deste template: [![Template dados D6 ](https://img.shields.io/badge/Download-Dados%20D6-lightgrey.svg?style=flat-square)](https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/Printable-6-Sided-Paper-Dice-Tabs_2cm.pdf). É só imprimir, recortar e colar :smile:.
 
 
 [1]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/docs/GDD_artemis_inferno.md
-[2]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/ArtemisInferno_Boardgame_v.1.0.pdf
-[3]:https://github.com/thiagotelesdesigner/ArtemisInfernoMiniBoardgame/blob/master/boardgame/Printable-6-Sided-Paper-Dice-Tabs_2cm.pdf
