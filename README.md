@@ -1,5 +1,5 @@
 # Artemis Inferno
-O ano é 2069, e você é o comandante a bordo da nave Artemis 11 indo para a colônia lunar Gaia II. Seu objetivo é entregar os suprimentos vitais à sobreviência desta colônia. Sua missão é extremamente importante, pois a espaçonave Artemis 10 não conseguiu chegar ao destino e a colônia agora sofre com racionamento dos suprimentos. Você é a última esperança de Gaia II. Vá até a Estação de Lançamento e boa sorte comandante!
+O ano é 2069, e você é o comandante a bordo da nave Artemis 11 indo para a colônia lunar Gaia II. Seu objetivo é entregar os suprimentos vitais à sobrevivência desta colônia. Sua missão é extremamente importante, pois a espaçonave Artemis 10 não conseguiu chegar ao destino e a colônia agora sofre com racionamento dos suprimentos. Você é a última esperança de Gaia II. Vá até a Estação de Lançamento e boa sorte comandante!
 
 ---
 
@@ -22,7 +22,7 @@ Artemis Inferno foi projetado seguindo os seguintes requisitos:
 - Um objetivo claro, de fácil percepção;
 - Um grau de dificuldade aumentado pela sorte e/ou habilidades.
 
-Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe dentro dos limites de uma folha de papel e que possua sentindo no contexto do seu jogo. Os espaços do seu tabuleiro poderão conter informações, desde que estas não exedam o espaço. Um espaço pode mudar o objetivo do seu personagem, a quantidade de dados a rolar, desbloquear uma nova parte do tabuleiro, retroceder o personagem, dentre várias outras ações que seu jogo necessite.
+Além disso, o espaço do jogo pode possuir qualquer forma, desde que se encaixe dentro dos limites de uma folha de papel e que possua sentindo no contexto do seu jogo. Os espaços do seu tabuleiro poderão conter informações, desde que estas não excedam o espaço. Um espaço pode mudar o objetivo do seu personagem, a quantidade de dados a rolar, desbloquear uma nova parte do tabuleiro, retroceder o personagem, dentre várias outras ações que seu jogo necessite.
 
 ## Download
 
