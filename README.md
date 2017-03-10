@@ -1,4 +1,6 @@
 # Artemis Inferno
+[![versão](https://img.shields.io/badge/versão-1.0.0%20RC-blue.svg)]
+
 O ano é 2069, e você é o comandante a bordo da nave Artemis 11 indo para a colônia lunar Gaia II. Seu objetivo é entregar os suprimentos vitais à sobrevivência desta colônia. Sua missão é extremamente importante, pois a espaçonave Artemis 10 não conseguiu chegar ao destino e a colônia agora sofre com racionamento dos suprimentos. Você é a última esperança de Gaia II. Vá até a Estação de Lançamento e boa sorte comandante!
 
 ---
